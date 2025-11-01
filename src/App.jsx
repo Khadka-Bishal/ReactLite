@@ -39,6 +39,7 @@ const getPlaylist = async () => {
   return results;
 };
 
+.github/workflows/pages.yml 
 export default function App() {
   //suspense-style data access; throws a promise until ready
   const tracks = createResource(getPlaylist, "playlist");
