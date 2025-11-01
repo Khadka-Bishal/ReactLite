@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "lib": ["ES2019", "DOM"],
+
+    "allowJs": true, // allow .js/.jsx
+    "checkJs": false, // no type checking for JS
+    "jsx": "react", // transpile JSX
+    "jsxFactory": "ReactLite.createElement",
+
+    "strict": false,
+    "skipLibCheck": true,
+
+    "rootDir": "src",
+    "outDir": "dist", // put compiled files here
+
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist", "**/*.test.ts", "**/*.test.tsx"]
+}
