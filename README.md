@@ -25,7 +25,7 @@ I wanted to remove the fog and literally learn the mechanics.
 
 ## demo
 
-i made a small music–player UI to show the scheduler/fiber work loop in action.
+I made a small music–player UI by using this new react-ish framework to see that the rendering, state, and async behavior works as expected. 
 
 🎧  [**Demo:**](https://khadka-bishal.github.io/ReactLite/): https://khadka-bishal.github.io/ReactLite/ 
 
