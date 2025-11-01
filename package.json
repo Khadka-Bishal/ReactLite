@@ -2,8 +2,8 @@
   "name": "node-starter",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsc -w"
+    "dev": "tsc -w",
+    "build": "tsc && mkdir -p dist && cp index.html dist/index.html && cp dist/index.html dist/404.html"
   },
   "devDependencies": {
     "typescript": "^5.9.3"
