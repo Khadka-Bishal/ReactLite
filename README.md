@@ -23,6 +23,16 @@ I wanted to remove the fog and literally learn the mechanics.
 
 ---
 
+## demo
+
+i made a small music–player UI to show the scheduler/fiber work loop in action.
+
+🎧  [**Demo:**](https://khadka-bishal.github.io/ReactLite/): https://khadka-bishal.github.io/ReactLite/ 
+
+<img width="921" height="461" alt="image" src="https://github.com/user-attachments/assets/07a9c00b-5233-412d-aad0-f8c8b76b50b1" />
+
+---
+
 ## features
 
 | feature | supported |
