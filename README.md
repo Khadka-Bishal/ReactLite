@@ -29,7 +29,8 @@ I made a small music–player UI by using this new react-ish framework to see th
 
 🎧  [**Demo:**](https://khadka-bishal.github.io/ReactLite/): https://khadka-bishal.github.io/ReactLite/ 
 
-<img width="921" height="461" alt="image" src="https://github.com/user-attachments/assets/07a9c00b-5233-412d-aad0-f8c8b76b50b1" />
+<img width="960" height="503" alt="image" src="https://github.com/user-attachments/assets/fc6c1f3c-e588-4f9d-b474-a8f6ca3075e6" />
+
 
 ---
 
