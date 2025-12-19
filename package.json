@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc && mkdir -p dist && cp index.html dist/index.html && cp dist/index.html dist/404.html"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
